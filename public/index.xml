@@ -1,25 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+      <title>Tractor Fox Short Film Festival 2017 on Tractor Fox Short Film Festival 2017 </title>
     <link>/</link>
-    <description>Recent content on My New Hugo Site</description>
-    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
-    
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
+    <author>Alexander Ivanov</author>
+    <updated>2017-11-13 21:13:14 -0500 -0500</updated>
     
     <item>
-      <title>Tractor Fox Short Film Festival 2017</title>
+      <title>Festival Date Announcement</title>
       <link>/post/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
+      <pubDate>Mon, 13 Nov 2017 21:13:14 -0500</pubDate>
+      <author>Alexander Ivanov</author>
       <guid>/post/2015-07-23-r-rmarkdown/</guid>
-      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+      <description>&lt;p&gt;We are pleased to announce that the festival will take place on the 23rd of December. Details on the venue will be released shortly.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tractor Fox Film Short Film Festival idea conceived</title>
+      <link>/post/filmfest/</link>
+      <pubDate>Mon, 11 Nov 2013 21:22:00 -0500</pubDate>
+      <author>Alexander Ivanov</author>
+      <guid>/post/filmfest/</guid>
+      <description>&lt;p&gt;Whilst getting inspiration at the Edinburgh Short Film Festival, the team had their eureka moment! Plans were afoot to make this the event of the year!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TractorFox Concept was born</title>
+      <link>/post/concept/</link>
+      <pubDate>Thu, 11 Jul 2013 21:13:14 -0500</pubDate>
+      <author>Alexander Ivanov</author>
+      <guid>/post/concept/</guid>
+      <description>&lt;p&gt;Sometime whilst attending the University of Edinburgh, the idea of TractorFox emerged organically after some Galahads.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

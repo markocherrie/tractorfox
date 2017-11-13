@@ -1,4 +1,4 @@
-theme = "hugo-conference"
+theme = "simple-a"
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Tractor Fox Short Film Festival 2017"
