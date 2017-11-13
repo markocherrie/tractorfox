@@ -9,5 +9,5 @@ features = ["blog", ]
 
 [author]
     name = "TractorFoxTeam"
-    homepage = "https://tractorfox.netlify.com/post/filmfest/"
-    source_repo = "https://tractorfox.netlify.com/post/filmfest/"
+    homepage = "https://tractorfox.netlify.com/"
+    source_repo = "https://tractorfox.netlify.com/"

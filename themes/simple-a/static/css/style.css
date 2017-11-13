@@ -87,6 +87,7 @@ footer {
   min-height: 20px;
   padding-left: 10px;
   padding-right: 10px;
+  background-color: transparent;
   margin: auto;
   max-width: 980px
 }
